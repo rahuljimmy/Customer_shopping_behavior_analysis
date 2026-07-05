@@ -10,6 +10,12 @@ This project analyzes **3,900 customer shopping transactions** to identify purch
 
 ---
 
+## 🗂️ Project Workflow
+
+<img width="1810" height="986" alt="project workflow" src="https://github.com/user-attachments/assets/64fd30e2-6b66-4889-a43a-403259553132" />
+
+---
+
 ## 🛠️ Tech Stack
 
 * 🐍 Python (Pandas, NumPy)

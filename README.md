@@ -48,6 +48,10 @@ This project demonstrates a complete **industry-style data analytics workflow**,
 
 ## 📷 Dashboard Preview
 
+<img width="1397" height="853" alt="Dashboard_1" src="https://github.com/user-attachments/assets/00714437-e280-4936-b424-3d6e9434ac34" />
+
+<img width="1393" height="852" alt="Dashboard_2" src="https://github.com/user-attachments/assets/3196cd9b-b2ad-4cbb-ab09-4bee5678bb97" />
+
 ---
 
 ## ⭐ If you found this project interesting, consider giving it a **Star** on GitHub!

@@ -46,4 +46,8 @@ This project demonstrates a complete **industry-style data analytics workflow**,
 
 ---
 
+## 📷 Dashboard Preview
+
+---
+
 ## ⭐ If you found this project interesting, consider giving it a **Star** on GitHub!

@@ -21,10 +21,10 @@ This project analyzes **3,900 customer shopping transactions** to identify purch
 
 ## 🚀 Project Highlights
 
-✔ Data Cleaning & Feature Engineering using Python
-✔ PostgreSQL Database Integration & SQL Analysis
-✔ 10 Real-World Business SQL Case Studies
-✔ Interactive Power BI Dashboard
+✔ Data Cleaning & Feature Engineering using Python <br>
+✔ PostgreSQL Database Integration & SQL Analysis <br>
+✔ 10 Real-World Business SQL Case Studies <br>
+✔ Interactive Power BI Dashboard <br>
 ✔ Business Insights & Strategic Recommendations
 
 ---

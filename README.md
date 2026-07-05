@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis (Python + SQL + Power BI) Project
+# 🛍️ Customer Shopping Behavior Analysis 
 
 **An End-to-End Data Analytics Project** using **Python, PostgreSQL & Power BI** to analyze customer purchasing behavior, uncover business insights, and support data-driven decision making.
 
